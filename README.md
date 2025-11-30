@@ -72,5 +72,3 @@ Submit pull requests with new features or improvements.
 Monu Yaduwanshi - GitHub Profile
 
 Thank you for checking out the Java-Http-Servlet project! Feel free to fork this repository and start exploring servlet development. Happy coding! ✨💻
-
-This decorative description emphasizes the simplicity and scalability of the project while inviting contributions and future enhancements. It’s designed to engage users by providing a clear project overview and easy-to-follow instructions.
